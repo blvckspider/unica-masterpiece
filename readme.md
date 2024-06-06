@@ -8,7 +8,7 @@ This repository contains some of the projects made during the current accademic 
 
 ---
 
-### Christmas Puzzle
+### [Christmas Puzzle](https://www.printables.com/model/700049-christmas-puzzle)
 Christmas puzzle is a modular Christmas decorations to enhance your tree's appearence and make it perfect.
 
 It's a christmas decoration, designed as a modular decoration equipped with: reindeer, sleigh and gift packages. This type of decoration encourages the development of creativity and ensures that the decorations are unique and all different from each other.
